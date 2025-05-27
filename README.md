@@ -2,7 +2,7 @@
 
 ## 📖 Project Description
 
-This smart contract implements a Uniswap-style liquidity pool using a constant product AMM. It allows users to add liquidity, remove liquidity, and swap between two ERC-20 tokens with an embedded 0.3% fee.
+This smart contract implements a Uniswap-style liquidity pool using a constant product AMM. It allows users to add liquidity, remove liquidity, and swap between two ERC-20 tokens with an embedded 0.3% fee.every user can use.
 
 ## 🌍 Project Vision
 
