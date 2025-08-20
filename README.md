@@ -6,7 +6,7 @@ This smart contract implements a Uniswap-style liquidity pool using a constant p
 
 ## 🌍 Project Vision
 
-To enable decentralized and permissionless token swaps with incentivized liquidity provisioning through automated market-making logic.
+To enable decentralized and permissionless token swaps with incentivized liquidity provisioning through automated market-making logic...
 
 ## 🔑 Key Features
 
