@@ -2,7 +2,7 @@ iim# Liquidity Pool with Automated Market Maker (AMM)
 
 ## 📖 Project Description
 
-This smart contract implements a Uniswap-style liquidity pool using a constant product AMM. It allows users to add liquidity, remove liquidity, and swap between two ERC-20 tokens with an embedded 0.3% fee. it's my workable project. These are understable. its various workings method, user identity and accumandate knowledge for the vision. its easier and understandable.
+This smart contract implements a Uniswap-style liquidity pool using a constant product AMM. It allows users to add liquidity, remove liquidity, and swap between two ERC-20 tokens with an embedded 0.3% fee. it's my workable project. These are understable. its various workings method, user identity and accumandate knowledge for the vision. 
 
 ## 🌍 Project Vision
 
